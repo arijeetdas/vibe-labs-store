@@ -1,16 +1,108 @@
-# vibe_labs_store
+# ⚡ Vibe Labs Store
 
-A new Flutter project.
+> A sleek, modern Android app marketplace built with Flutter — designed for speed, style, and seamless app discovery.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Overview
 
-A few resources to get you started if this is your first Flutter project:
+**Vibe Labs Store** is a lightweight, performance-focused Android app store interface that delivers a clean UI, smooth animations, and an intuitive browsing experience. Built using Flutter, it demonstrates modern mobile architecture, responsive design, and scalable structure suitable for production-grade deployment.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project is part of the **Vibe Labs ecosystem**, focused on crafting visually stunning yet highly functional applications.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Features
+
+* ⚡ Smooth UI animations and transitions
+* 🎨 Modern neon-gradient themed design
+* 📦 App install & uninstall handling
+* 🔎 Search-ready architecture
+* 📱 Optimized Android performance
+* 🧩 Modular code structure for scalability
+
+---
+
+## 📥 Installation (APK)
+
+Download the latest build from the **Releases** section:
+
+➡ **GitHub → Releases → Download APK → Install**
+
+> Make sure *Install Unknown Apps* permission is enabled on your Android device.
+
+---
+
+## 🛠 Tech Stack
+
+| Layer        | Technology                    |
+| ------------ | ----------------------------- |
+| Framework    | Flutter                       |
+| Language     | Dart                          |
+| Platform     | Android                       |
+| Architecture | Modular UI + Logic Separation |
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+ ┣ screens/
+ ┣ widgets/
+ ┣ services/
+ ┗ main.dart
+
+android/
+assets/
+```
+
+---
+
+## 🧪 Development Setup
+
+Clone the repository:
+
+```
+git clone https://github.com/arijeetdas/vibe-labs-store.git
+cd vibe-labs-store
+flutter pub get
+flutter run
+```
+
+---
+
+## 🎯 Roadmap
+
+* [ ] App update system
+* [ ] Categories section
+* [ ] Download manager
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+If you’d like to improve UI, performance, or features:
+
+1. Fork the repo
+2. Create a feature branch
+3. Commit changes
+4. Open a Pull Request
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** — feel free to use, modify, and distribute.
+
+---
+
+## 💫 About Vibe Labs
+
+**Vibe Labs** builds modern digital experiences that combine aesthetics with performance.
+Every project is crafted with precision, minimalism, and futuristic design language.
+
+---
+
+<p align="center"><b>Built with ⚡ energy + 🎧 focus + 💜 passion</b></p>
